@@ -14,6 +14,6 @@ Light mode:
 ![Light mode](https://github.com/janhavigavhale/aws-webdev-tasks/blob/main/task1-portfolio/Screenshot%202026-10-20%20164514.png?raw=true)
 Dark mode:
 ![Dark mode]()
-![Dark mode]()
+![Dark mode](https://github.com/janhavigavhale/aws-webdev-tasks/blob/main/task1-portfolio/Screenshot%202026-10-20%20164417.png?raw=true)
 
 
