@@ -9,6 +9,8 @@ Hi I am Janhavi, a first year student at VIT Pune. My branch is Computer Science
 3. The moon/sun button switches between light and dark mode.
 4. It has two animations.
 
+Lighthouse score= 100 for Accessibility, Performance, Best Practices, SEO. 
+
 #Screenshots
 Light mode:
 ![Light mode](https://github.com/janhavigavhale/aws-webdev-tasks/blob/main/task1-portfolio/Screenshot%202026-10-20%20164436.png?raw=true)
