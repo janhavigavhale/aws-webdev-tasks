@@ -11,7 +11,9 @@ Hi I am Janhavi, a first year student at VIT Pune. My branch is Computer Science
 #Screenshots
 Light mode:
 ![Light mode](https://github.com/janhavigavhale/aws-webdev-tasks/blob/main/task1-portfolio/Screenshot%202026-10-20%20164436.png?raw=true)
-(https://github.com/janhavigavhale/aws-webdev-tasks/blob/main/task1-portfolio/Screenshot%202026-10-20%20164514.png?raw=true)
-
+![Light mode](https://github.com/janhavigavhale/aws-webdev-tasks/blob/main/task1-portfolio/Screenshot%202026-10-20%20164514.png?raw=true)
+Dark mode:
+![Dark mode]()
+![Dark mode]()
 
 
