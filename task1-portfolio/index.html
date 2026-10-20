@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Basic page setup: character set, mobile sizing, search description, title, stylesheet -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfolio of Janhavi Pankaj Gavhale, first year Computer Science (Data Science) student at VIT Pune.">
+  <title>Janhavi Gavhale | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Skip link: lets keyboard users jump straight to the content -->
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- Header: name, page navigation and the light/dark toggle button -->
+  <header class="site-header">
+    <a href="#intro" class="logo">Janhavi<span>.</span></a>
+    <nav aria-label="Main navigation">
+      <ul class="nav-links">
+        <li><a href="#intro">Intro</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">🌙</button>
+  </header>
+
+  <!-- Main holds every section of the page -->
+  <main id="main">
+    <!-- Intro: photo/badge, name, one line about me, and a button to reach contact -->
+    <section id="intro" class="intro">
+      <img class="avatar"
+        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'%3E%3Crect width='120' height='120' rx='60' fill='%230f766e'/%3E%3Ctext x='60' y='75' font-size='44' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'%3EJG%3C/text%3E%3C/svg%3E"
+        alt="Avatar with the initials JG for Janhavi Gavhale" width="140" height="140">
+      <div class="intro-text">
+        <p class="hello">Hi, I'm</p>
+        <h1>Janhavi Pankaj Gavhale</h1>
+        <p>A first year Computer Science student with a specialization in Data Science, studying at VIT Pune.</p>
+        <a href="#contact" class="btn">Get in touch</a>
+      </div>
+    </section>
+
+    <!-- Skills: one card per skill -->
+    <section id="skills" aria-labelledby="skills-title">
+      <h2 id="skills-title">Skills</h2>
+      <ul class="skills-grid">
+        <li class="card"><h3>HTML</h3><p>Built this portfolio.</p></li>
+        <li class="card"><h3>CSS</h3><p>Learning.</p></li>
+        <li class="card"><h3>JavaScript</h3><p>Just starting. Wrote the dark mode toggle.</p></li>
+        <li class="card"><h3>Git and GitHub</h3><p>Using it for this portfolio.</p></li>
+      </ul>
+    </section>
+
+    <!-- Projects: one card per project (add more cards the same way) -->
+    <section id="projects" aria-labelledby="projects-title">
+      <h2 id="projects-title">Projects</h2>
+      <div class="projects-grid">
+        <article class="card">
+          <h3>Personal Portfolio</h3>
+          <p>This website, built with HTML, CSS and JavaScript, with a light/dark theme.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Contact: links to email, LinkedIn and X -->
+    <section id="contact" aria-labelledby="contact-title">
+      <h2 id="contact-title">Contact</h2>
+      <p>Feel free to reach out!</p>
+      <ul class="contact-list">
+        <li><a class="btn" href="mailto:janhavi.12611553@vit.edu">Email</a></li>
+        <li><a class="btn btn-outline" href="https://www.linkedin.com/in/janhavi-gavhale-314883425" target="_blank" rel="noopener">LinkedIn</a></li>
+        <li><a class="btn btn-outline" href="https://x.com/jznhzvi" target="_blank" rel="noopener">X / Twitter</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- Footer: copyright line, the year is filled in by script.js -->
+  <footer class="site-footer">
+    <p>&copy; <span id="year"></span> Janhavi Pankaj Gavhale</p>
+  </footer>
+
+  <!-- Load the JavaScript at the end so the page is ready when it runs -->
+  <script src="script.js"></script>
+</body>
+</html>
+ 
+
+
