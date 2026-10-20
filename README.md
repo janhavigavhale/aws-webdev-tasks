@@ -1,6 +1,6 @@
 # My web dev tasks (AWS SBG)
 Hi I am Janhavi, a first year student at VIT Pune. My branch is Computer Science and Engineering with specialization in Data Science. This repo has my work for the web development recruitment tasks.
-**See my portfolio:** htt
+
 **See my portfolio:** https://janhavigavhale.github.io/aws-webdev-tasks/task1-portfolio/
 
 ##About my portfolio
