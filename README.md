@@ -10,6 +10,7 @@ Hi I am Janhavi, a first year student at VIT Pune. My branch is Computer Science
 
 #Screenshots
 Light mode:
-![Light mode](<img width="1920" height="1080" alt="Screenshot 2026-10-20 162646" src="https://github.com/user-attachments/assets/1c9c855b-bf90-4726-9bb1-83d313d6b969" />)
+![Light mode](https://github.com/janhavigavhale/aws-webdev-tasks/blob/main/task1-portfolio/Screenshot%202026-10-20%20164436.png?raw=true)
+(
 
 
